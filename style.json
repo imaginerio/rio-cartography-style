@@ -7,52 +7,52 @@
     "pitch": 0,
     "sources": {
         "composite": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/base/{z}/{x}/{y}"], 
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/base/{z}/{x}/{y}"], 
             "type": "vector"
         },
         "hillshade-1500": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1500/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1500/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1880": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1880/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1880/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1905": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1905/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1905/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1910": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1910/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1910/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1922": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1922/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1922/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1923": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1923/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1923/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1924": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1924/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1924/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         },
         "hillshade-1960": {
-            "tiles": ["https://imaginerio-vector.s3.amazonaws.com/hillshade/1960/{z}/{x}/{y}.png"],
+            "tiles": ["https://d3k40cbid25xfu.cloudfront.net/hillshade/1960/{z}/{x}/{y}.png"],
             "scheme": "tms",
             "type": "raster"
         }
     },
     "sprite": "",
-    "glyphs": "https://imaginerio-vector.s3.amazonaws.com/fonts/{fontstack}/{range}.pbf",
+    "glyphs": "https://d3k40cbid25xfu.cloudfront.net/fonts/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "background",
