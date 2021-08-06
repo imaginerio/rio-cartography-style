@@ -289,7 +289,7 @@
             "id": "land-line",
             "type": "line",
             "source": "composite",
-            "source-layer": "landpoly",
+            "source-layer": "coastline",
             "paint": {
                 "line-color": "hsl(210, 91%, 70%)",
                 "line-width": [
